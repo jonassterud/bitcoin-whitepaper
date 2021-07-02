@@ -1,4 +1,6 @@
 # Bitcoin: A Peer-to-Peer Electronic Cash System
+Original whitepaper and its translations were found at [bitcoin.org](https://bitcoin.org/en/bitcoin-paper).
+
 * [English (Original)](bitcoin.pdf)
 * [Bahasa Indonesia](bitcoin_id.pdf)
 * [Català](bitcoin_ca.pdf)
